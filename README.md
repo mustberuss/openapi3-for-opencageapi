@@ -13,7 +13,7 @@ I'm not sure the OpenCage people are as excited about OpenAPI/Swagger as they sh
     Especially fun to then generate clients via the Generate Client menu for anything not already mentioned on the [OpenCage SDK page](https://opencagedata.com/sdks)
 
   * Look at all the fun open source projects that take an API's Swagger 2 or OpenAPI/Swagger 3 definition as inputs to do amazing things.  See https://openapi.tools/
-  * Read the [article](http://patentsview.historicip.com/swagger/articles/) I wrote about using Swagger/OpenAPI with the patentsview API (I'm a contributor to the API's R package).
-  * Read about the [fun things](http://patentsview.historicip.com/feedback2.htm) I've done with the geolocation data provided in bulk by the patentview API team.  
+  * Read the [article](https://patentsview.historicip.com/swagger/articles/) I wrote about using Swagger/OpenAPI with the patentsview API (I'm a contributor to the API's R package).
+  * Read about the [fun things](https://patentsview.historicip.com/feedback2.htm) I've done with the geolocation data provided in bulk by the patentview API team.  
   
 Note that it's useful to have both versions around, some open source projects only work for a specific version (ex: [rapiclient](https://github.com/bergant/rapiclient/issues/17) for R reads only Swagger 2 definitions).
